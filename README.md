@@ -1,5 +1,8 @@
 # pdftoexcel
-bash install.sh
+```bash install.sh```
+
+
+
 LOAD DATA LOCAL INFILE '/data/data/com.termux/files/home/pdftoexel/produk.csv'
 INTO TABLE produk
 FIELDS TERMINATED BY ','
